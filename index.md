@@ -1,10 +1,10 @@
 # Published projects
 
 ## Zalcode  
-Zalcode is a Chrome extension that encrypts and decrypts text that a user posts online.
-It is written in Javascript, HTML and CSS.
-Click [here](https://github.com/ehrenjn/Zalcode) to find out more
-and click [here](https://chrome.google.com/webstore/detail/zalcode/ehhohcjkdmgejfemfncmhdmbdgjobpbp) to download Zalcode from the Chrome store
+Zalcode is a Chrome extension that encrypts and decrypts text that a user posts online.  
+It is written in Javascript, HTML and CSS.  
+Click [here](https://github.com/ehrenjn/Zalcode) to find out more  
+and click [here](https://chrome.google.com/webstore/detail/zalcode/ehhohcjkdmgejfemfncmhdmbdgjobpbp) to download Zalcode from the Chrome store  
 
 ## JSON Messaging Service
 The JSON Messaging Service is a website created for simple communication between computers on seperate local networks  
