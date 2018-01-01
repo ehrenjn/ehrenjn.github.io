@@ -13,17 +13,17 @@ Click [here](https://github.com/ehrenjn/JSON_messaging) to find out more
 and click [here](http://waksmemes.x10host.com/mess/) to visit the site itself  
 
 ## Kissanime Anticaptcha
-Kissanime Anticaptcha is a Tampermonkey userscript that learns to solve captchas on kissanime.ru as the user solves captchas
-It is written in Javascript
-Click [here](https://github.com/ehrenjn/kissanime_anticaptcha) to find out more
-and click [here](https://greasyfork.org/en/scripts/36720-kissanime-anti-captcha) to install the script
+Kissanime Anticaptcha is a Tampermonkey userscript that learns to solve captchas on kissanime.ru as the user solves captchas  
+It is written in Javascript  
+Click [here](https://github.com/ehrenjn/kissanime_anticaptcha) to find out more  
+and click [here](https://greasyfork.org/en/scripts/36720-kissanime-anti-captcha) to install the script  
 
 ## Your World of Text Autotyper
 The Your World of Text Autotyper is an API for posting to YourWorldOfText.com automatically, faster then it is possible to post in a browser  
-It is written in Python
-Click [here](https://github.com/ehrenjn/your_world_of_text_requests_autotyper) to find out more
+It is written in Python  
+Click [here](https://github.com/ehrenjn/your_world_of_text_requests_autotyper) to find out more  
 
 ## Go Wav
-Go Wav is a Go library for posting reading and writing .wav files
-Click [here](https://github.com/ehrenjn/go-wav) to find out more
+Go Wav is a Go library for posting reading and writing .wav files  
+Click [here](https://github.com/ehrenjn/go-wav) to find out more  
 
