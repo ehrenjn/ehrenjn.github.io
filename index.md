@@ -5,6 +5,7 @@ title: Ehren Julien-Neitzert
 # About me
 I am a 2nd year software engineering student at Carleton university.  
 On my Github you'll find code from several of my hobby projects.  
+You can contact me at ehrenjulienneitzert@cmail.carleton.ca  
 
 # Published projects
 
